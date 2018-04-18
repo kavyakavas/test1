@@ -1,2 +1,7 @@
 # test1
-this rep is for testing purpose
+this is a first reposit.  
+selenium has 4 parts.
+selenium webdriver
+selenium remote controler
+selenium grid
+selenium IDE
